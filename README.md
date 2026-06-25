@@ -1,64 +1,213 @@
-<h1 align="center">Hi 👋, I'm Rajeev Kumar Gupta</h1>
-<h3 align="center">A Passionate Software Engineer</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **MERN Stack**
+# Rajeev Kumar Gupta
 
-- 👨‍💻 My Portfolio: [rajeevtechie.github.io/portfolio/](https://rajeevtechie.github.io/portfolio/)
+### Software Engineering Student • Full-Stack Developer • Backend Enthusiast
 
-- 📫 How to reach me: **rajeevkgupta598@gmail.com**
+Building scalable web applications, AI-powered solutions, and production-ready software with a focus on clean architecture, problem solving, and continuous learning.
+
+<p>
+<a href="https://github.com/rajeevgupta001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rajeevgupta995/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://https://rajeevtechie.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/></a>
+<a href="mailto:rajeevkgupta598@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajeevgupta001&label=Profile%20Views&color=7C3AED&style=flat" />
+</p>
+
+
+## Current Status
+
+🚧 Building production-grade MERN applications while strengthening system design, backend engineering, and AI integration skills.
 
 ---
 
-### 🌐 Connect with Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/rajeevgupta995/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
-  </a>
-  <a href="https://www.facebook.com/share/17kgwvabrx/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50" />
-  </a>
-  <a href="https://www.instagram.com/im_rajeevgupta" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
-  </a>
-</p>
+# Engineering Philosophy
+
+> *"Technology should solve problems—not become the problem."*
+
+I believe great software starts with understanding the problem before choosing the technology. My focus is on building applications that are intuitive for users, maintainable for developers, and scalable for future growth.
+
+Rather than chasing every new framework, I invest in strengthening my computer science fundamentals, backend engineering skills, and system design knowledge while building projects that solve meaningful real-world problems.
 
 ---
 
-### 🧰 Languages and Tools:
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
-</p>
+# Featured Projects
+
+## 🧠 StudyNest *(In Development)*
+
+**AI-powered collaborative learning platform for university students.**
+
+StudyNest brings study planning, collaborative learning, resource management, and AI-assisted guidance into a single workspace designed to help students learn more effectively.
+
+### Highlights
+
+* AI-powered study planning
+* Collaborative study groups
+* Resource management
+* Progress analytics
+* Smart scheduling
+* Secure authentication
+
+**Tech Stack**
+
+`React` • `Node.js` • `Express.js` • `MongoDB` • `Gemini AI` • `Cloudinary`
+
+Status: 🚧 Active Development
+
+Repository: Available after MVP release
+
+Live Demo: Planned after stable deployment
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rajeevtechie&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Rajeev's GitHub stats" />
-</p>
+## 🤝 VolunteerBridge *(In Development)*
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=rajeevtechie&theme=tokyonight&hide_border=false" alt="Rajeev's streak stats" />
-</p>
+**Connecting volunteers with meaningful opportunities through intelligent matching and modern web technology.**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevtechie&theme=tokyo-night" alt="Rajeev's activity graph" />
-</p>
+VolunteerBridge helps NGOs and volunteers connect through location-aware opportunity discovery, AI-powered recommendations, application management, and verified volunteering records.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeevtechie&layout=compact&theme=tokyonight&v=2" />
-</p>
+### Highlights
+
+* Volunteer & NGO platform
+* AI opportunity matching
+* Interactive maps
+* Digital volunteering records
+* PDF certificate generation
+
+**Tech Stack**
+
+`React` • `Node.js` • `Express.js` • `MongoDB` • `Mapbox` • `Gemini AI`
+
+Status: 🚧 Active Development
+Repository: Available after MVP release
+Live Demo: Planned after stable deployment
 
 ---
 
-⭐️ **From [Rajeev Kumar Gupta](https://github.com/rajeevtechie)**
+## 🚀 AI Study Tracker *(Planned)*
+
+**An intelligent learning analytics platform that transforms study sessions into actionable insights.**
+
+Designed to help learners build consistency through AI-powered recommendations, productivity analytics, revision planning, and personalized learning reports.
+
+### Highlights
+
+* AI study insights
+* Goal tracking
+* Productivity analytics
+* Learning dashboard
+* Personalized recommendations
+
+**Tech Stack**
+
+`React` • `Node.js` • `Express.js` • `MongoDB` • `Gemini AI`
+
+
+Status: 🚧 Active Development
+
+Repository: Available after MVP release
+
+Live Demo: Planned after stable deployment
+
+---
+
+# Currently Engineering
+
+## 🚀 Building
+
+* StudyNest
+* VolunteerBridge
+
+## 📚 Learning
+
+* Advanced MERN Development
+* System Design
+* Docker
+* Backend Architecture
+
+## 🔬 Exploring
+
+* AI Integrations
+* Open Source
+* Scalable Software Architecture
+
+---
+
+# Engineering Toolkit
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+
+</div>
+
+---
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajeevgupta001&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgupta001&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=rajeevgupta001&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+# Let's Connect
+
+<div align="center">
+
+I'm always open to discussing software engineering, backend development, AI-powered applications, and exciting collaboration opportunities.
+
+<br>
+
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rajeevgupta995/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://https://rajeevtechie.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="mailto:rajeevkgupta598@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for stopping by! 👋
+
+*"Always learning. Always building. Always improving."*
+
+</div>
+
